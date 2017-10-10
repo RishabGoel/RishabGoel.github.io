@@ -9,7 +9,7 @@ permalink: /:title
 title: "Rishab Goel"
 description: "Masters student at IIT Delhi"
 baseurl: ""
-url: "http://himsel.me" # replace by your site's url
+url: "https://rishabgoel.github.io/" # replace by your site's url
 twitter_username: rgoel0112
 github_username:  RishabGoel # (your name)
 accent: "#f7f7e6" # accent color for blog column
